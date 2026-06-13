@@ -27,6 +27,7 @@ Custom indicators for technical analysis.
 
 - [Volume Profile](https://github.com/MotiveWave/motivewave-extensions) - Volume analysis tools.
 - [Advanced Moving Averages](https://github.com/MotiveWave/motivewave-extensions) - Enhanced moving average calculations.
+- [WyckFlow.com Free Studies](https://github.com/zenart/wyckflow-free-studies) - Cumulative Volume Delta (CVD) with swing/immediate divergence markers and Bid/Ask Volume studies compatible with MotiveWave Community/Standard editions.
 
 ### Strategies
 
